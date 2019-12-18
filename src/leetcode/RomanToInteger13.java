@@ -1,9 +1,5 @@
 package leetcode;
 
-import javax.xml.stream.events.Characters;
-import java.util.ArrayList;
-import java.util.List;
-
 public class RomanToInteger13 {
     public int romanToInt(String s) {
         int out = 0;
