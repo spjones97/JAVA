@@ -1,6 +1,7 @@
 package leetcode;
 
 public class RomanToInteger13 {
+    // Brute force
     public int romanToInt(String s) {
         int out = 0;
         int tempNum;
